@@ -3,9 +3,6 @@ A rota */login, no verbo **post*, possui documentação incompleta na API Server
 
 - Quando é feito um requested no PostMan, deixando e-mail e password em branco, é retornada uma mensagem não documentada.
 
-*To Reproduce*
-Steps to reproduce the behavior:
-
 Go to **'serverest.dev/login'**
 Click on *'POST'*
 Scroll down to '*Responses*' - Code 200 e Code 400
